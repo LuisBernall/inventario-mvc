@@ -1,0 +1,8 @@
+db\CategoriaDAO.class
+edu\udistrital\multinivel\inventario\mvc\InventarioMvc.class
+db\Conexion.class
+model\Categoria.class
+controller\InventarioController.class
+model\Producto.class
+db\ProductoDAO.class
+view\InventarioView.class
